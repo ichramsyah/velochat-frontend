@@ -34,7 +34,7 @@ const LoginSuccessPage = () => {
 
   return (
     <div className="flex items-center justify-center min-h-screen">
-      <p className="text-purple-700 font-bold">Selamat Datang di VeloChat</p>
+      <p></p>
     </div>
   );
 };
